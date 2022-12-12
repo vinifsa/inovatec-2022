@@ -28,9 +28,8 @@ Oi, Sou Vinicius Fernandes e esse arquivo é um pequeno registro da minha partic
   - 09/12/2022: Lean Canvas. 
   - 09/12/2022: Escopo do produto. 
   - 09/12/2022: Escopo do projeto. 
-  - De 09/12/2022 a 11/12/2022: 
-  - MVP. 11/12/2022: 
-  - Desenvolver o Power Point. 
+  - De 09/12/2022 a 11/12/2022: MVP. 
+  - 11/12/2022: Desenvolver o Power Point. 
   - 12/12/2022: Pitch.
   
  3. Desenvolvimento do projeto
@@ -54,8 +53,7 @@ Oi, Sou Vinicius Fernandes e esse arquivo é um pequeno registro da minha partic
 
 ## Pitch
 
-Link do Pitch: 
-https://www.canva.com/design/DAFUf5PKbAQ/XEJ9ZN1bixMpC8TOCccFUQ/edit?utm_content=DAFUf5PKbAQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link do Pitch: https://www.canva.com/design/DAFUf5PKbAQ/XEJ9ZN1bixMpC8TOCccFUQ/view
 
 Demais links:
 - Canvas: https://drive.google.com/file/d/1Z0llVbUD5S93xKB4FrNVVG4qtwQPQvrd/view?usp=sharing
