@@ -49,12 +49,14 @@ Oi, Sou Vinicius Fernandes e esse arquivo é um pequeno registro da minha partic
           - Canais: Marketing direto, redes sociais e parcerias com escolas
           - Custos: Criação e hospedagem do site, marketing, gestão e RH
           - Receitas: Parceirias e Google ads
+
+ 4. - 12/12/2022: Fizemos a apresentação do pitch e fomos avaliados por uma banca avaliadora compostos por membros da DIO e do grupo Carrefour e tivemos um feedback positivo tanto da apresentação quando do projeto.
      
 
 ## Pitch
 
 Link da apresentação: https://www.canva.com/design/DAFUf5PKbAQ/XEJ9ZN1bixMpC8TOCccFUQ/view
-Slides Em pdf: https://drive.google.com/file/d/1pYa2VEwWk2EIL3tnQ2di-7rDEibfwJwz/view?usp=share_link
+Slides Em pdf: https://drive.google.com/file/d/1mUoDS-bm3lOpI_8CF8XIHgTLf0LP8pQR/view
 
 Demais links:
 - Canvas: https://drive.google.com/file/d/1Z0llVbUD5S93xKB4FrNVVG4qtwQPQvrd/view?usp=sharing
