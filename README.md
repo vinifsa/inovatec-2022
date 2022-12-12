@@ -1,5 +1,7 @@
 # Projeto de Inovação (Inovatec 2022)
 
+Oi, Sou Vinicius Fernandes e esse arquivo é um pequeno registro da minha particição no InovaTec. Essa Formação, patrocinada pelo Carrefour e oferecida pela DIO, tem como principal objetivo promover uma experiência educacional completa e voltada para a aplicação dos conhecimentos adquiridos sobre inovação, empreendedorismo, Gestão, UX e carreira no mercado de trabalho. 
+
 ## Integrantes 
 
 - Bruna Vieira
@@ -40,7 +42,7 @@
      - O escopo do projeto sofreram várias alterações à medida que a proposta do projeto era refinada. No final foi decidido a versão final do Lean Canvas com os            seguites pontos de destaque:
         - Proposta de valor: Tornar os jovens mais satisfeitos no futuro, com objetivos coerentes
         - Vantagem injusta: Atuação virtual e presencial, imersão em carreiras e filtro por região
-        - Segmentação de clientes: Estudantes do ensino médio, empresas interessadas para os jovens a prática da profissão e empresas que realizam atividade                   extracurriculares
+        - Segmentação de clientes: Estudantes do ensino médio, empresas interessadas para os jovens a prática da profissão e empresas que realizam atividade                     extracurriculares
         - Métricas: Número de cadastros e acessos na plataforma, feedback dos usuários e número de empresas parceiras
         - Canais: Marketing direto, redes sociais e parcerias com escolas
         - Custos: Criação e hospedagem do site, marketing, gestão e RH
@@ -50,6 +52,7 @@
 ## Pitch
 
 Link do Pitch: 
+https://www.canva.com/design/DAFUf5PKbAQ/XEJ9ZN1bixMpC8TOCccFUQ/edit?utm_content=DAFUf5PKbAQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Demais links:
 - Canvas: https://drive.google.com/file/d/1Z0llVbUD5S93xKB4FrNVVG4qtwQPQvrd/view?usp=sharing
