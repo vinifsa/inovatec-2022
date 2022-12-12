@@ -54,9 +54,11 @@ Oi, Sou Vinicius Fernandes e esse arquivo é um pequeno registro da minha partic
 ## Pitch
 
 Link do Pitch: https://www.canva.com/design/DAFUf5PKbAQ/XEJ9ZN1bixMpC8TOCccFUQ/view
+Em pdf: https://drive.google.com/file/d/1pYa2VEwWk2EIL3tnQ2di-7rDEibfwJwz/view?usp=share_link
 
 Demais links:
 - Canvas: https://drive.google.com/file/d/1Z0llVbUD5S93xKB4FrNVVG4qtwQPQvrd/view?usp=sharing
 - Escopo do produto: https://docs.google.com/document/d/1XH90VBVLyoAto-VccCljpGSQKPz3t8ywf_kwxs41uDs/edit
 - Escopo do projeto: https://docs.google.com/document/d/1PHduanGY9BVDvpv40lpkc_ZF6e_L2I83FnWCIZLONlQ
+- Relatório de Pesquisa de validação: https://drive.google.com/file/d/11rojVNW9n2QNQ-sf-wy5AnGGw5sOyock/view?usp=share_link
 
